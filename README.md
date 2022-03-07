@@ -5,9 +5,11 @@ Tonal grids
 - Tonal levels hierarchic
 - Tonal networks
 - Keyboard
+
 Metric grids
 - Metric levels
 - Chord elaborational hierarchy
+
 Tonal and metric grids
 - Pianoroll
 - Grid containers
