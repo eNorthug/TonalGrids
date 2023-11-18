@@ -1,5 +1,22 @@
-# TonalGrids
-Tonal and metric grids, integrated.
+# Cycles
+- Periodic pattern
+- Divisional hierarchy
+- Reference level
+
+# Musical dimensions
+MIDI decodes music,  
+- Timbral
+- Metric
+- Harmonic
+- Dynamic
+Performance dimensions - piano example
+- Instrument: keyboard and pedals
+- Performer: (active) hands and feet
+
+The piano typically has 88 keys, MIDI numbers 21 to 108. Two groups of keys intermingle and differ by color and shape. Keyboard layout includes 12-key periods. For each period - as for the entire keyboard - the topology forms two layers of rectangles: white and black.
+
+# Harmonics
+
 
 Tonal grids
 - Tonal levels hierarchic
